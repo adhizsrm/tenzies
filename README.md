@@ -42,20 +42,21 @@ Ensure you have a `.gitignore` in your project root with:
 
 
 ## Folder Structure
-tenzies
-├── node_modules (.gitignore)
-├── components
-│   ├── App.jsx
-├── css
-│   ├── styles.css
-├── .gitignore
-├── eslint.config.js (.gitignore)
-├── index.html
-├── index.jsx
-├── package.json (.gitignore)
-├── README.md
-└── vite.config.js (.gitignore)
-
+```
+  tenzies
+  ├── node_modules (.gitignore)
+  ├── components
+  │   ├── App.jsx
+  ├── css
+  │   ├── styles.css
+  ├── .gitignore
+  ├── eslint.config.js (.gitignore)
+  ├── index.html
+  ├── index.jsx
+  ├── package.json (.gitignore)
+  ├── README.md
+  └── vite.config.js (.gitignore)
+```
 
 
 ## Game Play
