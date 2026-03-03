@@ -47,15 +47,18 @@ Ensure you have a `.gitignore` in your project root with:
   ├── node_modules (.gitignore)
   ├── components
   │   ├── App.jsx
+  │   ├── Die.jsx
   ├── css
   │   ├── styles.css
+  ├── src
+  │   ├── main.jsx
   ├── .gitignore
   ├── eslint.config.js (.gitignore)
   ├── index.html
-  ├── index.jsx
-  ├── package.json (.gitignore)
+  ├── package-lock.json
+  ├── package.json
   ├── README.md
-  └── vite.config.js (.gitignore)
+  └── vite.config.js
 ```
 
 
