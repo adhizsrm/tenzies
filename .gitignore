@@ -10,9 +10,6 @@ lerna-debug.log*
 # Ignore node_modules folder
 node_modules/
 eslint.config.js
-package.json
-vite.config.js
-package-lock.json
 dist
 dist-ssr
 *.local
